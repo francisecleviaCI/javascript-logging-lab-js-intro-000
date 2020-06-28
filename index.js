@@ -1,1 +1,1 @@
-consoloe.error("help")
+console.error("help")
